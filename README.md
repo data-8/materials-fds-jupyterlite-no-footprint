@@ -8,7 +8,7 @@ This includes jupyter notebooks used for homework, labs, and projects as well as
 
 JupyterLite Distribution: [here](https://www.data8.org/materials-sp22-jupyterlite-no-footprint/lab/index.html)
 
-**NOTE: Be sure to use the https protocol when accessing the JL Distribution: __https__://www.data8.org/materials-sp22-jupyterlite/**
+**NOTE: Be sure to use the https protocol when accessing the JL Distribution: https://www.data8.org/materials-sp22-jupyterlite-no-footprint/lab/index.html**
 
 JupyterLite Specific Notes and Instructions:
 - File changes in repository but not when loaded in JL:
