@@ -10,6 +10,7 @@ JupyterLite Distribution: [here](https://www.data8.org/materials-fds-jupyterlite
 
 **NOTE: Be sure to use the https protocol when accessing the JL Distribution: __https__://www.data8.org/materials-fds-jupyterlite/**
 
+
 JupyterLite Specific Notes and Instructions:
 - File changes in repository but not when loaded in JL:
 Cached files can be problem if you are loading a previously rendered notebook with changes into the same browser. If this happens, "Clear Site Data" from the browser preferences menu.
